@@ -1,0 +1,125 @@
+body{
+    text-align: center;
+    align-items: center;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2.5rem;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color: #d95980;
+}
+.green{
+    background-color: #63aac0;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.purple{
+    background-color: #819ff9;
+}
+.gameflash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
+
+
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+    letter-spacing: 1.5px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+}
+
+h2 {
+    font-size: 1.4rem;
+    margin-bottom: 2rem;
+    color: #ddd;
+}
+
+
+.btn-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.line-one, .line-two {
+    display: flex;
+    gap: 1.5rem;
+}
+
+
+.btn {
+    height: 160px;
+    width: 160px;
+    border-radius: 20px;
+    border: 3px solid #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+
+.red {
+    background: linear-gradient(to bottom right, #ff416c, #ff4b2b);
+}
+.yellow {
+    background: linear-gradient(to bottom right, #f9d423, #ff4e50);
+}
+.green {
+    background: linear-gradient(to bottom right, #00b09b, #96c93d);
+}
+.purple {
+    background: linear-gradient(to bottom right, #8e2de2, #4a00e0);
+}
+.gameflash {
+    box-shadow: 0 0 30px 10px white;
+    opacity: 0.8;
+}
+
+.userflash {
+    box-shadow: 0 0 30px 10px lime;
+    opacity: 0.9;
+}
+
+
+.btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 20px #fff;
+}  */
+
